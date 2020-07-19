@@ -1,4 +1,4 @@
-### Hi there, my name is Seweryn.👋
+### Hi there, my name is Seweryn. 👋
 #### wannabe developer
 I'm an aspiring future programmer. I'm happy to accept any job offers.
 
