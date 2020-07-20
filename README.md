@@ -13,5 +13,3 @@ Skills:
 <img src='https://raw.githubusercontent.com/konpa/devicon/master/icons/sass/sass-original.svg' height='24' />
 <img src='https://raw.githubusercontent.com/konpa/devicon/master/icons/redux/redux-original.svg' height='24' />
 <img src='https://raw.githubusercontent.com/konpa/devicon/master/icons/bootstrap/bootstrap-plain.svg' height='24' /> GraphQL, Django Rest Framework, Bash
-
-[<img src='https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/linkedin-32.png' alt='linkedin'>](https://www.linkedin.com/in/seweryn-piorkowski/) 
