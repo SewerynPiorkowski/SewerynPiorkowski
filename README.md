@@ -4,8 +4,6 @@
 
 🧑‍💻 Currently I'm working on [web app for hotels, motels etc.](https://github.com/SewerynPiorkowski/SHotel)
 
-📖 Trying to learn Dart & Flutter
-
 💪 Skills: 
 <img src='https://raw.githubusercontent.com/konpa/devicon/master/icons/python/python-original.svg' height='24' /> 
 <img src='https://raw.githubusercontent.com/konpa/devicon/master/icons/django/django-original.svg' height='24' /> 
