@@ -1,6 +1,5 @@
 ### Hi there, my name is Seweryn. 👋
 #### wannabe developer
-🧏‍♂️ I'm an aspiring programmer. I'm happy to accept any job offers.
 
 🧑‍💻 Currently I'm working on [web app for hotels, motels etc.](https://github.com/SewerynPiorkowski/SHotel)
 
